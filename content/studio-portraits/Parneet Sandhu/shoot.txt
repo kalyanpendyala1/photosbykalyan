@@ -1,0 +1,4 @@
+title=Outdoor Portrait Photography
+location=Halifax, NS
+date=October 2026
+description=Fall Colors Outdoor photography.
