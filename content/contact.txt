@@ -1,0 +1,3 @@
+location=Halifax, NS
+phone=2192387743
+instagram=@yourhandle

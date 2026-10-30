@@ -1,0 +1,7 @@
+PHOTOS BY KALYAN — GITHUB PAGES WEBSITE
+
+This package contains the website source and the GitHub Actions workflow that builds and publishes it.
+
+To publish: extract this ZIP, create a GitHub repository, and add/commit/push the extracted files to the repository's main branch. In the repository, open Settings > Pages and choose GitHub Actions as the publishing source. The workflow will build and publish the site automatically.
+
+Add shoot folders and photographs under the relevant content category folder. See content/README.md for details.
